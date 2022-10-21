@@ -1,0 +1,76 @@
+#nav div li{
+   display:inline   ;
+   margin-left: 220px;
+   font-size: 20px;
+   color: white;
+
+}
+#nav{
+    border: 2px solid lightblue;
+    background-color: aquamarine;
+    padding: 10px;
+    
+}
+#form{
+    border: 2px solid orchid;
+    width: 900px;
+margin: auto;
+padding: 30px;
+margin-top: 10px;
+background-color: darkkhaki;
+}
+#user{
+width: 820px;
+padding: 10px;
+font-size: 25px;
+border-radius: 6px;
+border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+
+}
+#user:hover{
+    color: rgb(211, 111, 111);
+    background-color: rgb(250, 204, 229);
+    outline: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500
+}
+h1{
+    color: blueviolet;
+    text-align: center; 
+    margin-top: 0;
+    text-shadow: 4px 2px 2px white;
+    font-size: 60px;
+
+}
+button{
+    margin: 20px 130px 0;
+    height: 45px;
+    width: 120px;
+    border-radius: 6px;
+    background-color: green;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 8px;
+}
+button:hover{
+    border: 2px solid white;
+}
+#form label{
+    font-size: 30px;
+    margin-top: 10px;
+    color: rgb(24, 22, 97);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#reset{
+    background-color: orange;
+    border: none;
+}
+#reset:hover{
+    border: 2px solid white;
+
+}
+ 
